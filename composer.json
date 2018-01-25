@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "behat/behat": "^3.4",
+        "behat/mink": "^1.7",
+        "behat/mink-extension": "^2.3",
+        "dmore/behat-chrome-extension": "^1.1"
+    }
+}
